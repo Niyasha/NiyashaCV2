@@ -1,0 +1,25 @@
+body {
+    background-color: #f1f1f1;
+    font-family: "Times New Roman", Times, serif;
+  }
+  p {
+    color:#c56183;
+    font-style: italic;
+  }
+  table {
+    margin: 28px;
+    width:40%;
+    border-style: dotted solid;
+    background-color: #faebd7;
+  }
+  tr{
+    height: 20px;
+    background-color: #e8e9a1;
+  }
+  hr{
+    border-style: none;
+    border-top-style: ridge;
+    border-color: #fff3e6;
+    border-width:medium;
+    width:20%
+  }
